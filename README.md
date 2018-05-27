@@ -2,6 +2,8 @@ This was another super fun exercise from Wes Bos's [Javascript 30](https://javas
 
 In it, we're creating an image gallery that will expand and animate on click.
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/flex-panels-gallery/)
+
+[Github Pages](https://whyohengee.github.io/flexpanelsgallery/)
 
 [Codepen](https://codepen.io/whyohengee/pen/gzZaro?editors=0100)
